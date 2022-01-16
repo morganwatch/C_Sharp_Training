@@ -1,0 +1,15 @@
+/Users/morganwaters/RiderProjects/Calculator2/bin/Debug/net5.0/Calculator2.deps.json
+/Users/morganwaters/RiderProjects/Calculator2/bin/Debug/net5.0/Calculator2.runtimeconfig.json
+/Users/morganwaters/RiderProjects/Calculator2/bin/Debug/net5.0/Calculator2.runtimeconfig.dev.json
+/Users/morganwaters/RiderProjects/Calculator2/bin/Debug/net5.0/Calculator2.dll
+/Users/morganwaters/RiderProjects/Calculator2/bin/Debug/net5.0/ref/Calculator2.dll
+/Users/morganwaters/RiderProjects/Calculator2/bin/Debug/net5.0/Calculator2.pdb
+/Users/morganwaters/RiderProjects/Calculator2/obj/Debug/net5.0/Calculator2.csproj.AssemblyReference.cache
+/Users/morganwaters/RiderProjects/Calculator2/obj/Debug/net5.0/Calculator2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/morganwaters/RiderProjects/Calculator2/obj/Debug/net5.0/Calculator2.AssemblyInfoInputs.cache
+/Users/morganwaters/RiderProjects/Calculator2/obj/Debug/net5.0/Calculator2.AssemblyInfo.cs
+/Users/morganwaters/RiderProjects/Calculator2/obj/Debug/net5.0/Calculator2.csproj.CoreCompileInputs.cache
+/Users/morganwaters/RiderProjects/Calculator2/obj/Debug/net5.0/Calculator2.dll
+/Users/morganwaters/RiderProjects/Calculator2/obj/Debug/net5.0/ref/Calculator2.dll
+/Users/morganwaters/RiderProjects/Calculator2/obj/Debug/net5.0/Calculator2.pdb
+/Users/morganwaters/RiderProjects/Calculator2/obj/Debug/net5.0/Calculator2.genruntimeconfig.cache
